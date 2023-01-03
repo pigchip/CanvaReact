@@ -12,5 +12,5 @@ Para los archivos Prediccion:
   
     npm i
     npm i react-canvas-draw si manda errores probar, npm i --force react-canvas-draw
-    npm install react-color --save
+    npm install react-color --save si manda errores probar, npm install --force react-color --save
     npm start
