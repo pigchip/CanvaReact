@@ -1,5 +1,6 @@
 Para los archivos Pizarra:
   Guardalos en una carpeta y ejecutar:
+  
     npm i
     npm i react-canvas-draw si manda errores probar, npm i --force react-canvas-draw
     npm run build
@@ -8,6 +9,7 @@ Para los archivos Pizarra:
   
 Para los archivos Prediccion:
   Guardalos en una carpeta y ejecutar:
+  
     npm i
     npm i react-canvas-draw si manda errores probar, npm i --force react-canvas-draw
     npm install react-color --save
